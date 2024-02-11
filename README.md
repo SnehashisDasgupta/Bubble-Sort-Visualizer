@@ -6,3 +6,6 @@ So bigger the value of element, higher the length of bar .
 A sound effect is also added , which will play while sorting the array.
 
 ![bubble_sort_visualizer](https://github.com/SnehashisDasgupta/Bubble-Sort-Visualizer/assets/78195442/1c95852c-5594-4fe0-92f6-0c60cfa4f8da)
+
+
+https://snehashisdasgupta.github.io/Bubble-Sort-Visualizer/
